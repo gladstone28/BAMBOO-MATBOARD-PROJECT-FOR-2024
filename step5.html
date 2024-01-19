@@ -57,6 +57,14 @@
     <footer>
         <p>&copy; 2023 Quality Solutions Limited</p>
     </footer>
+    <script>
+        document.querySelectorAll('.faq-question').forEach(item => {
+            item.addEventListener('click', () => {
+                const answer = item.nextElementSibling;
+                answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+            });
+        });
+    </script>
 </body>
 
 </html>

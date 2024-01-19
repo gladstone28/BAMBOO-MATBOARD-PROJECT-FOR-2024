@@ -48,16 +48,19 @@
             <p>After gluing and layering, perform a quality check to ensure that there are no misalignments or glue seepage. The layers should be uniformly bonded without any visible gaps.</p>
             <span><strong>This step is critical in the production of Bamboo Matboard as it determines the structural integrity of the final product. Proper gluing and layering ensure that the matboard is strong, stable, and has a uniform appearance.</strong></span>
 
-
-
-
-
-
         </section>
     </main>
     <footer>
         <p>&copy; 2023 Quality Solutions Limited</p>
     </footer>
+    <script>
+        document.querySelectorAll('.faq-question').forEach(item => {
+            item.addEventListener('click', () => {
+                const answer = item.nextElementSibling;
+                answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+            });
+        });
+    </script>
 </body>
 
 </html>
