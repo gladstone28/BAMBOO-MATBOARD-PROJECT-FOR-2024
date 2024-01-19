@@ -231,7 +231,8 @@ Quality Solutions Limited (QSL)
 
 
 
-
+memory jog
+/c/Users/glads/Downloads/BAMBOO-MATBOARD-PROJECT-FOR-2024
 
 
 
