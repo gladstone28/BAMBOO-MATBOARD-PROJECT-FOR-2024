@@ -29,3 +29,22 @@ Selecting the right bamboo for manufacturing products like Bamboo Matboard invol
 8. **Local Climate and Growing Conditions:** The quality of bamboo can also be influenced by the climate and soil conditions in which it grows. Bamboo grown in its native or ideal conditions is generally of higher quality.
 
 By carefully considering these factors, manufacturers can select the right bamboo, which is a crucial step in ensuring the quality, durability, and sustainability of Bamboo Matboard. **Step 2 is crucially necessary for Jamaica and must be looked at by Policy Makers urgently.**
+
+
+**note on the relevant iso standard**
+
+# ISO 6128:2023(E)
+
+### Introduction
+
+- Laminated bamboo (Plywood or matboard are also terms used) products are used for purposes such as construction, furniture, handicrafts and
+novelty items. These products, such as floor planks or boards, have a large market in the construction
+industry. Furniture for the “high end” and “do-it-yourself “markets has also found an application
+of laminated bamboo products. These products are one of the main materials for bamboo furniture.
+Accordingly, the market for laminated bamboo furniture is growing steadily. In 2018, the market size
+for bamboo furniture was valued at USD 10,09 billion and is expected to grow at a compound annual
+growth rate (CAGR) of 5,2 % from 2019 to 2025.
+- In view of the above, such applications of laminated bamboo in the furniture industry warrant the
+development of a standard testing procedure and property requirements. This document aims to
+address the need for a standard for laminated products made of bamboo strips for indoor furniture
+purposes.
